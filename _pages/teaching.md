@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /outline/
-title: outline
+title: Tutorial Outline
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
