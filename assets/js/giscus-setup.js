@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "aaai-tutorial-itbench/aaai-tutorial-itebench",
+    "data-repo": "aaai-tutorial-itbench/aaai-tutorial-itbench.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
