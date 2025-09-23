@@ -10,21 +10,21 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-outline",
-          title: "outline",
+        },{id: "nav-tutorial-outline",
+          title: "Tutorial Outline",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/outline/";
           },
-        },{id: "nav-people",
-          title: "people",
+        },{id: "nav-contributors",
+          title: "Contributors",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
