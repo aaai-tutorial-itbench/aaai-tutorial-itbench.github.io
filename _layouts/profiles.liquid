@@ -1,3 +1,4 @@
+{% raw %}
 ---
 layout: page
 ---
@@ -16,11 +17,13 @@ layout: page
               {% else %}
                 {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
               {% endif %}
+              {% capture profile_image_style %}max-width:300px; height:auto;{% endcapture %}
               {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
               {% include figure.liquid
                  loading="eager"
                  path=profile_image_path
                  class=profile_image_class
+                 style=profile_image_style
                  sizes=sizes
                  alt=profile.image %}
             {% endif %}
@@ -54,11 +57,13 @@ layout: page
               {% else %}
                 {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
               {% endif %}
+              {% capture profile_image_style %}max-width:300px; height:auto;{% endcapture %}
               {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
               {% include figure.liquid
                  loading="eager"
                  path=profile_image_path
                  class=profile_image_class
+                 style=profile_image_style
                  sizes=sizes
                  alt=profile.image %}
             {% endif %}
@@ -80,3 +85,4 @@ layout: page
     {% endif %}
   </article>
 </div>
+{% endraw %}
