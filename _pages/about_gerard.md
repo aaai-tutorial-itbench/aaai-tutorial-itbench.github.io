@@ -1,0 +1,1 @@
+*Gerard Vanloo* is a Software Engineer at IBM Research whose work is centers on observability and benchmarking, particularly on Kubernetes. He has a Bachelors of Science in Computer Science from Morehouse College. His previous work includes GPU workload placement optimization and Augmented Reality.
