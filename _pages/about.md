@@ -2,7 +2,7 @@
 layout: about
 title: Overview
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -15,8 +15,4 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Although many LLM-based agents have recently been developed, progress on agents that are capable of solving complex, real-world problems is severely limited. One such important and challenging area is that of addressing IT management tasks, including solving IT incidents, which often require extensive human expertise and effort. To enable the development of agents for these tasks, in this lab, we introduce IT-Bench, an open benchmark for IT automation that simulates realistic environments where agents interact with IT systems and multi-modal operational data, including logs, metrics, alerts, and traces. ITBench provides a two- tiered benchmark: a static dataset (ITBench_static) that closely mirrors the live, gym-like environment (ITBench_live). Together, they provide a testbed for benchmarking agentic systems across a host of critical challenges, such as planning and reasoning over massive and heterogeneous IT data, safety, and stochasticity in live IT systems. Through demonstrations, participants will learn all of these challenges. ITBench_static is more beginner-friendly, enabling rapid benchmarking of agents against a smaller set of unique IT-domain challenges. ITBench_live enables more advanced researchers and practitioners familiar with IT systems to develop and test their agents against the full suite of challenging IT problems. We will guide attendees to use both ITBench_static and ITBench_live to develop baseline multi-agent systems and benchmark their performance. No prior IT or site reliability engineering (SRE) experience is required.
