@@ -1,0 +1,1 @@
+**Lav R. Varshney** is an associate professor in the Department of Electrical and Computer Engineering and the Coordinated Science Laboratory at the University of Illinois, Urbana Champaign. He is also the Inaugural Director of AI Innovation Institute, Stony Brook University, New York.
