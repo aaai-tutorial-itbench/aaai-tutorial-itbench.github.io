@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-presenters",
+          title: "Presenters",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presenters/";
+          },
         },{id: "nav-tutorial-outline",
           title: "Tutorial Outline",
           description: "Materials for courses you taught. Replace this text with your description.",
@@ -23,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outline/";
           },
-        },{id: "nav-presenters",
-          title: "Presenters",
+        },{id: "nav-team",
+          title: "Team",
           description: "",
           section: "Navigation",
           handler: () => {
