@@ -15,13 +15,10 @@ announcements:
 
 ---
 
-**Venue:** [AAAI 2026 Lab, LH02: Developing AI Agents for IT Automation Tasks with ITBench](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#lh02)
-
-**Date and Time:** Tuesday, January 20, 2026, 8:30am - 12:30pm
-
-**Location:** Singapore EXPO, Singapore.
-
-**Registraion:** https://aaai.getregistered.net/conference-2026 
+- **Venue:** [AAAI 2026 Lab, LH02…](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#lh02)
+- **Date and Time:** Tuesday, January 20, 2026, 8:30 am – 12:30 pm
+- **Location:** Singapore EXPO, Singapore
+- **Registration:** https://aaai.getregistered.net/conference-2026
 
 ## Overview
 
