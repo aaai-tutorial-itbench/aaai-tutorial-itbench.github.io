@@ -18,7 +18,7 @@ announcements:
 - **Venue:** [AAAI 2026 Lab, LH02…](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#lh02)
 - **Date and Time:** Tuesday, January 20, 2026, 8:30 am – 12:30 pm
 - **Location:** Singapore EXPO, Singapore
-- **Registration:** https://aaai.getregistered.net/conference-2026
+- **Registration:** [AAAI 2026 Registration](https://aaai.getregistered.net/conference-2026)
 
 ## Overview
 
