@@ -15,9 +15,15 @@ announcements:
 
 ---
 
-**Venue:** AAAI 2026 Lab, [LH02: Developing AI Agents for IT Automation Tasks with ITBench](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#lh02)
+**Venue:** [AAAI 2026 Lab, LH02: Developing AI Agents for IT Automation Tasks with ITBench](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-list/#lh02)
+
 **Date and Time:** Tuesday, January 20, 2026, 8:30am - 12:30pm
+
 **Location:** Singapore EXPO, Singapore.
+
+**Registraion:** https://aaai.getregistered.net/conference-2026 
+
+## Overview
 
 Although many LLM-based agents have recently been developed, progress on agents that are capable of solving complex, real-world problems is severely limited. One such important and challenging area is that of addressing IT management tasks, including solving IT incidents, which often require extensive human expertise and effort. To enable the development of agents for these tasks, in this lab, we introduce IT-Bench, an open benchmark for IT automation that simulates realistic environments where agents interact with IT systems and multi-modal operational data, including logs, metrics, alerts, and traces. 
 
