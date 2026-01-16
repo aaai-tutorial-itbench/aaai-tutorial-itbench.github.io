@@ -28,14 +28,9 @@ presenters:
 contributors:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - align: 
     image: 
-    content: about_noah.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-  - align: right
-    image: 
-    content: about_cecilia.md
+    content: about_saurabh.md
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: 
@@ -45,7 +40,17 @@ contributors:
     more_info: 
   - align: 
     image: 
-    content: about_saurabh.md
+    content: about_paulito.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+  - align: right
+    image: 
+    content: about_noah.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+  - align: right
+    image: 
+    content: about_cecilia.md
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: 

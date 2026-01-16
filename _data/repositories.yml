@@ -3,5 +3,7 @@
 repo_description_lines_max: 2
 
 github_repos:
-  - itbench-hub/ITBench
+  - itbench-hub/ITBench-SRE-Agent
+  - itbench-hub/ITBench-Lite
+  - itbench-hub/ITBench-Evaluations
 
